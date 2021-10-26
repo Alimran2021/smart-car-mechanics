@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "CARLBERT",
+        "price": "61000",
+        "img": "https://i.ibb.co/DVzbZNd/mechanic-1.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 1,
+        "name": "CHERY JOHN",
+        "price": "44000",
+        "img": "https://i.ibb.co/pfVYjbd/mechanic-2.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 1,
+        "name": "JONY BERMA",
+        "price": "30000",
+        "img": "https://i.ibb.co/3hm23wN/mechanic-3.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 1,
+        "name": "JUKER",
+        "price": "40000",
+        "img": "https://i.ibb.co/82KFxJT/mechanic-4.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 1,
+        "name": "SMENTH BARG",
+        "salary": "20000",
+        "img": "https://i.ibb.co/tx6BtGZ/mechanic-5.jpg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    }
+]

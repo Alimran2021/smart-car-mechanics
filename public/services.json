@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "OILE CAR",
+        "price": "200",
+        "img": "https://i.ibb.co/yNRVs14/Background-1.png",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 2,
+        "name": "CAR CABLE",
+        "price": "240",
+        "img": "https://i.ibb.co/r0H0Ftc/Background-2.png",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 3,
+        "name": "CHECK ENGINE",
+        "price": "180",
+        "img": "https://i.ibb.co/C2kv5zW/maxime-agnelli-c7-VByynfcvg-unsplash-1.png",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 4,
+        "name": "FUIL ENGINE",
+        "price": "260",
+        "img": "https://i.ibb.co/2PMcqKt/kate-ibragimova-b-EGTs-OCn-Hro-unsplash-1.png",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    },
+    {
+        "id": 5,
+        "name": "GAS ENGINE",
+        "price": "320",
+        "img": "https://i.ibb.co/rwyN0r1/maxime-agnelli-wpr3-M50-P3c-unsplash-1.png",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint hic aspernatur assumenda veritatis voluptatum cumque similique esse id animi."
+    }
+]
